@@ -339,7 +339,7 @@ export default function TechnologyStack() {
           >
             Built with{" "}
             <span className="bg-gradient-to-r from-indigo-400 via-blue-400 to-cyan-400 bg-clip-text text-transparent">
-              modern & proven
+              modern & proven<span> </span>
             </span>
             <br className="hidden sm:block" />
             technologies

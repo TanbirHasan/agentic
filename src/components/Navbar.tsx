@@ -319,7 +319,7 @@ export default function Navbar() {
               style={{ transitionDelay: "350ms" }}
             >
               <Link
-                href="https://calendly.com/zenfro236/30min"
+                href="https://calendly.com/info@theagentichub.com/30min"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMenuOpen(false)}

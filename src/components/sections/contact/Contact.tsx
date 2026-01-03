@@ -268,7 +268,10 @@ export default function ContactPage() {
                   <div>
                     <p className="text-slate-400 text-sm mb-1">Email</p>
                     <p className="text-white font-semibold">
-                      contact@yourcompany.com
+                      info@theagentichub.com
+                    </p>
+                    <p className="text-slate-400 text-sm mt-1">
+                      theagentichub@gmail.com
                     </p>
                   </div>
                 </div>
@@ -280,7 +283,7 @@ export default function ContactPage() {
                   <div>
                     <p className="text-slate-400 text-sm mb-1">Phone</p>
                     <p className="text-white font-semibold">
-                      +1 (555) 123-4567
+                      +1 (516) 951-7773
                     </p>
                   </div>
                 </div>
@@ -292,7 +295,7 @@ export default function ContactPage() {
                   <div>
                     <p className="text-slate-400 text-sm mb-1">Office</p>
                     <p className="text-white font-semibold">
-                      123 Tech Street, Silicon Valley, CA 94025
+                      491 Fort Smith Blvd, Deltona, FL 32738
                     </p>
                   </div>
                 </div>
@@ -306,7 +309,7 @@ export default function ContactPage() {
                       Business Hours
                     </p>
                     <p className="text-white font-semibold">
-                      Mon-Fri: 9:00 AM - 6:00 PM
+                      Mon-Fri: 9:00 AM - 6:00 PM EST
                     </p>
                   </div>
                 </div>

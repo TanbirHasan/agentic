@@ -327,7 +327,7 @@ export default function ProjectsCarousel() {
           </div>
 
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
-            Transforming Ideas Into
+            Transforming Ideas Into<span> </span>
             <br className="hidden sm:block" />
             <span className="bg-gradient-to-r from-indigo-400 via-blue-400 to-cyan-400 bg-clip-text text-transparent">
               Intelligent Solutions
